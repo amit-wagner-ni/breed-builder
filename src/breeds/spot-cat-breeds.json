@@ -1,0 +1,1913 @@
+[
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Abyssinian",
+    "alias": {
+      "breedId": 140,
+      "alias": "Australian Mist"
+    },
+    "aliases": [
+      {
+        "breedId": 140,
+        "alias": "Australian Mist"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Abyssinian"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "American Bobtail",
+    "alias": {
+      "breedId": 406,
+      "alias": "American Bobtail Shorthair"
+    },
+    "aliases": [
+      {
+        "breedId": 406,
+        "alias": "American Bobtail Shorthair"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~American%20Bobtail"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "American Curl",
+    "alias": {
+      "breedId": 159,
+      "alias": "American Curl Shorthair"
+    },
+    "aliases": [
+      {
+        "breedId": 159,
+        "alias": "American Curl Longhair"
+      },
+      {
+        "breedId": 159,
+        "alias": "American Curl Shorthair"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~American%20Curl"
+  },
+  {
+    "species": "Cat",
+    "type": "Mixed",
+    "name": "American Longhair",
+    "alias": {
+      "breedId": 409,
+      "alias": "Kashmir"
+    },
+    "aliases": [
+      {
+        "breedId": 409,
+        "alias": "Kashmir"
+      },
+      {
+        "breedId": 409,
+        "alias": "Pinto"
+      },
+      {
+        "breedId": 409,
+        "alias": "Tabby"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~Mixed~American%20Longhair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "American Shorthair",
+    "alias": {
+      "breedId": 144,
+      "alias": "Alley Cat"
+    },
+    "aliases": [
+      {
+        "breedId": 144,
+        "alias": "Caliby"
+      },
+      {
+        "breedId": 144,
+        "alias": "Brindle"
+      },
+      {
+        "breedId": 144,
+        "alias": "ASH"
+      },
+      {
+        "breedId": 144,
+        "alias": "Alley Cat"
+      },
+      {
+        "breedId": 144,
+        "alias": "Tricolor cat"
+      },
+      {
+        "breedId": 144,
+        "alias": "Tortoiseshell and White"
+      },
+      {
+        "breedId": 144,
+        "alias": "Tobi Mi-Ke"
+      },
+      {
+        "breedId": 144,
+        "alias": "Tabby"
+      },
+      {
+        "breedId": 144,
+        "alias": "Stray Cat"
+      },
+      {
+        "breedId": 144,
+        "alias": "Pinto"
+      },
+      {
+        "breedId": 144,
+        "alias": "Moggie"
+      },
+      {
+        "breedId": 144,
+        "alias": "Feral Cat"
+      },
+      {
+        "breedId": 144,
+        "alias": "Domestic Shorthair"
+      },
+      {
+        "breedId": 144,
+        "alias": "Calico"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~American%20Shorthair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "American Wirehair",
+    "aliases": [],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~American%20Wirehair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Balinese",
+    "alias": {
+      "breedId": 160,
+      "alias": "Long-Haired Siamese"
+    },
+    "aliases": [
+      {
+        "breedId": 160,
+        "alias": "Long-Haired Siamese"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Balinese"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Bengal",
+    "alias": {
+      "breedId": 397,
+      "alias": "Bengalese"
+    },
+    "aliases": [
+      {
+        "breedId": 397,
+        "alias": "Bengalese"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Bengal"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Birman",
+    "alias": {
+      "breedId": 145,
+      "alias": "Sacred Birman"
+    },
+    "aliases": [
+      {
+        "breedId": 145,
+        "alias": "Sacred Cat of Birma"
+      },
+      {
+        "breedId": 145,
+        "alias": "Sacred Birman"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Birman"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Bombay",
+    "alias": {
+      "breedId": 165,
+      "alias": "American Bombay Cat"
+    },
+    "aliases": [
+      {
+        "breedId": 165,
+        "alias": "Mini Panther"
+      },
+      {
+        "breedId": 165,
+        "alias": "American Bombay Cat"
+      },
+      {
+        "breedId": 165,
+        "alias": "Black Burmese"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Bombay"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "British Shorthair",
+    "alias": {
+      "breedId": 156,
+      "alias": "British Blue"
+    },
+    "aliases": [
+      {
+        "breedId": 156,
+        "alias": "British Longhair"
+      },
+      {
+        "breedId": 156,
+        "alias": "British Blue"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~British%20Shorthair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Burmese",
+    "aliases": [],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Burmese"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Burmilla",
+    "aliases": [],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Burmilla"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "California Spangled",
+    "alias": {
+      "breedId": 413,
+      "alias": "Spangle"
+    },
+    "aliases": [
+      {
+        "breedId": 413,
+        "alias": "Spangle"
+      },
+      {
+        "breedId": 413,
+        "alias": "Californian Spangled"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~California%20Spangled"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Cameo Longhair",
+    "aliases": [],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Cameo%20Longhair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Chartreux",
+    "aliases": [],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Chartreux"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Chausie",
+    "aliases": [],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Chausie"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Chinchilla",
+    "alias": {
+      "breedId": 417,
+      "alias": "Shorthair Chinchilla"
+    },
+    "aliases": [
+      {
+        "breedId": 417,
+        "alias": "Shorthair Chinchilla"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Chinchilla"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Colorpoint Longhair",
+    "alias": {
+      "breedId": 423,
+      "alias": "Javanese"
+    },
+    "aliases": [
+      {
+        "breedId": 423,
+        "alias": "Javi"
+      },
+      {
+        "breedId": 423,
+        "alias": "Balinese"
+      },
+      {
+        "breedId": 423,
+        "alias": "Colorpoint"
+      },
+      {
+        "breedId": 423,
+        "alias": "Colourpoint Longhair"
+      },
+      {
+        "breedId": 423,
+        "alias": "Javanese"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Colorpoint%20Longhair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Colorpoint Shorthair",
+    "alias": {
+      "breedId": 154,
+      "alias": "Colourpoint"
+    },
+    "aliases": [
+      {
+        "breedId": 154,
+        "alias": "Colourpoint Shorthair"
+      },
+      {
+        "breedId": 154,
+        "alias": "Colourpoint"
+      },
+      {
+        "breedId": 154,
+        "alias": "Colorpoint"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Colorpoint%20Shorthair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Cornish Rex",
+    "aliases": [],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Cornish%20Rex"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Cymric",
+    "alias": {
+      "breedId": 173,
+      "alias": "Longhair Manx"
+    },
+    "aliases": [
+      {
+        "breedId": 173,
+        "alias": "Semi-Longhair Manx Variant"
+      },
+      {
+        "breedId": 173,
+        "alias": "Manx Longhair"
+      },
+      {
+        "breedId": 173,
+        "alias": "Longhair Manx"
+      },
+      {
+        "breedId": 173,
+        "alias": "Long-Haired Manx"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Cymric"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Devon Rex",
+    "alias": {
+      "breedId": 150,
+      "alias": "Dutch Rex"
+    },
+    "aliases": [
+      {
+        "breedId": 150,
+        "alias": "Rex"
+      },
+      {
+        "breedId": 150,
+        "alias": "Dutch Rex"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Devon%20Rex"
+  },
+  {
+    "species": "Cat",
+    "type": "Mixed",
+    "name": "Domestic Longhair",
+    "alias": {
+      "breedId": 428,
+      "alias": "Alley Cat"
+    },
+    "aliases": [
+      {
+        "breedId": 428,
+        "alias": "I don’t know"
+      },
+      {
+        "breedId": 428,
+        "alias": "Tabby"
+      },
+      {
+        "breedId": 428,
+        "alias": "Stray"
+      },
+      {
+        "breedId": 428,
+        "alias": "Pinto"
+      },
+      {
+        "breedId": 428,
+        "alias": "Not Sure"
+      },
+      {
+        "breedId": 428,
+        "alias": "Mutt"
+      },
+      {
+        "breedId": 428,
+        "alias": "Long-Haired House Cat"
+      },
+      {
+        "breedId": 428,
+        "alias": "Heinz 57"
+      },
+      {
+        "breedId": 428,
+        "alias": "DLH"
+      },
+      {
+        "breedId": 428,
+        "alias": "Long Haired Moggie"
+      },
+      {
+        "breedId": 428,
+        "alias": "Kashmir"
+      },
+      {
+        "breedId": 428,
+        "alias": "Alley Cat"
+      },
+      {
+        "breedId": 428,
+        "alias": "York Chocolate"
+      },
+      {
+        "breedId": 428,
+        "alias": "York"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~Mixed~Domestic%20Longhair"
+  },
+  {
+    "species": "Cat",
+    "type": "Mixed",
+    "name": "Domestic Mediumhair",
+    "alias": {
+      "breedId": 430,
+      "alias": "Alley Cat"
+    },
+    "aliases": [
+      {
+        "breedId": 430,
+        "alias": "I don’t know"
+      },
+      {
+        "breedId": 430,
+        "alias": "Kashmir"
+      },
+      {
+        "breedId": 430,
+        "alias": "Moggie"
+      },
+      {
+        "breedId": 430,
+        "alias": "Mutt"
+      },
+      {
+        "breedId": 430,
+        "alias": "not sure"
+      },
+      {
+        "breedId": 430,
+        "alias": "Pinto"
+      },
+      {
+        "breedId": 430,
+        "alias": "Stray"
+      },
+      {
+        "breedId": 430,
+        "alias": "Tabby"
+      },
+      {
+        "breedId": 430,
+        "alias": "Alley Cat"
+      },
+      {
+        "breedId": 430,
+        "alias": "DMH"
+      },
+      {
+        "breedId": 430,
+        "alias": "Domestic Medium Hair"
+      },
+      {
+        "breedId": 430,
+        "alias": "Heinz 57"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~Mixed~Domestic%20Mediumhair"
+  },
+  {
+    "species": "Cat",
+    "type": "Mixed",
+    "name": "Domestic Shorthair",
+    "alias": {
+      "breedId": 498,
+      "alias": "Alley Cat"
+    },
+    "aliases": [
+      {
+        "breedId": 498,
+        "alias": "Calico"
+      },
+      {
+        "breedId": 498,
+        "alias": "Tabby"
+      },
+      {
+        "breedId": 498,
+        "alias": "Stray Cat"
+      },
+      {
+        "breedId": 498,
+        "alias": "Tobi Mi-Ke"
+      },
+      {
+        "breedId": 498,
+        "alias": "Tortoiseshell and White"
+      },
+      {
+        "breedId": 498,
+        "alias": "Toyger"
+      },
+      {
+        "breedId": 498,
+        "alias": "Tricolor cat"
+      },
+      {
+        "breedId": 498,
+        "alias": "Tuxedo Mix"
+      },
+      {
+        "breedId": 498,
+        "alias": "Alley Cat"
+      },
+      {
+        "breedId": 498,
+        "alias": "ASH"
+      },
+      {
+        "breedId": 498,
+        "alias": "Brindle"
+      },
+      {
+        "breedId": 498,
+        "alias": "Caliby"
+      },
+      {
+        "breedId": 498,
+        "alias": "DSH"
+      },
+      {
+        "breedId": 498,
+        "alias": "Feral Cat"
+      },
+      {
+        "breedId": 498,
+        "alias": "Heinz 57"
+      },
+      {
+        "breedId": 498,
+        "alias": "I don’t know"
+      },
+      {
+        "breedId": 498,
+        "alias": "Moggie"
+      },
+      {
+        "breedId": 498,
+        "alias": "Stray"
+      },
+      {
+        "breedId": 498,
+        "alias": "Mutt"
+      },
+      {
+        "breedId": 498,
+        "alias": "Not Sure"
+      },
+      {
+        "breedId": 498,
+        "alias": "Pinto"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~Mixed~Domestic%20Shorthair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Egyptian Mau",
+    "alias": {
+      "breedId": 157,
+      "alias": "American Keuda"
+    },
+    "aliases": [
+      {
+        "breedId": 157,
+        "alias": "American Keuda"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Egyptian%20Mau"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "European Burmese",
+    "aliases": [],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~European%20Burmese"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "European Shorthair",
+    "alias": {
+      "breedId": 400,
+      "alias": "Moggie"
+    },
+    "aliases": [
+      {
+        "breedId": 400,
+        "alias": "Moggie"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~European%20Shorthair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Exotic Longhair",
+    "alias": {
+      "breedId": 478,
+      "alias": "Exotic"
+    },
+    "aliases": [
+      {
+        "breedId": 478,
+        "alias": "Minuet Longhair"
+      },
+      {
+        "breedId": 478,
+        "alias": "Ojos Azules Longhair"
+      },
+      {
+        "breedId": 478,
+        "alias": "American Exotic"
+      },
+      {
+        "breedId": 478,
+        "alias": "Exotic"
+      },
+      {
+        "breedId": 478,
+        "alias": "Kurilian Bobtail LongHair"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Exotic%20Longhair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Exotic Shorthair",
+    "alias": {
+      "breedId": 401,
+      "alias": "Exotic"
+    },
+    "aliases": [
+      {
+        "breedId": 401,
+        "alias": "Gonchaya Ruskaya"
+      },
+      {
+        "breedId": 401,
+        "alias": "Sokoke"
+      },
+      {
+        "breedId": 401,
+        "alias": "Exotic"
+      },
+      {
+        "breedId": 401,
+        "alias": "American Exotic"
+      },
+      {
+        "breedId": 401,
+        "alias": "Delmun"
+      },
+      {
+        "breedId": 401,
+        "alias": "Bahraini Dilmuni"
+      },
+      {
+        "breedId": 401,
+        "alias": "Bahraini Dilmun Cat"
+      },
+      {
+        "breedId": 401,
+        "alias": "Kurilian Bobtail"
+      },
+      {
+        "breedId": 401,
+        "alias": "Minuet"
+      },
+      {
+        "breedId": 401,
+        "alias": "Ojos Azules"
+      },
+      {
+        "breedId": 401,
+        "alias": "Safari Cat"
+      },
+      {
+        "breedId": 401,
+        "alias": "Serengeti"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Exotic%20Shorthair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Havana Brown",
+    "alias": {
+      "breedId": 169,
+      "alias": "Havana"
+    },
+    "aliases": [
+      {
+        "breedId": 169,
+        "alias": "HB"
+      },
+      {
+        "breedId": 169,
+        "alias": "Havana"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Havana%20Brown"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Highland Lynx Cat",
+    "alias": {
+      "breedId": 620,
+      "alias": "Highland Lynx"
+    },
+    "aliases": [
+      {
+        "breedId": 620,
+        "alias": "Highlander Shorthair"
+      },
+      {
+        "breedId": 620,
+        "alias": "Highlander"
+      },
+      {
+        "breedId": 620,
+        "alias": "Highland Lynx"
+      },
+      {
+        "breedId": 620,
+        "alias": "Desert Lynx"
+      },
+      {
+        "breedId": 620,
+        "alias": "Lynx, Highland"
+      },
+      {
+        "breedId": 620,
+        "alias": "Lynx, Desert"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Highland%20Lynx%20Cat"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Himalayan",
+    "alias": {
+      "breedId": 479,
+      "alias": "Blue Point"
+    },
+    "aliases": [
+      {
+        "breedId": 479,
+        "alias": "Himalayan Blue Point"
+      },
+      {
+        "breedId": 479,
+        "alias": "Flame Point"
+      },
+      {
+        "breedId": 479,
+        "alias": "Blue Point"
+      },
+      {
+        "breedId": 479,
+        "alias": "Seal Point"
+      },
+      {
+        "breedId": 479,
+        "alias": "Lilac Point"
+      },
+      {
+        "breedId": 479,
+        "alias": "Kashmir"
+      },
+      {
+        "breedId": 479,
+        "alias": "Himalayan Flame Point"
+      },
+      {
+        "breedId": 479,
+        "alias": "Himalayan Seal Point"
+      },
+      {
+        "breedId": 479,
+        "alias": "Himalayan Lilac Point"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Himalayan"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Japanese Bobtail",
+    "alias": {
+      "breedId": 158,
+      "alias": "Japanese Bobtail Longhair"
+    },
+    "aliases": [
+      {
+        "breedId": 158,
+        "alias": "Japanese Bobtail Longhair"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Japanese%20Bobtail"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Khao Manee",
+    "alias": {
+      "breedId": 625,
+      "alias": "Diamond Eye"
+    },
+    "aliases": [
+      {
+        "breedId": 625,
+        "alias": "Khao-Manee"
+      },
+      {
+        "breedId": 625,
+        "alias": "White Cat of Thailand"
+      },
+      {
+        "breedId": 625,
+        "alias": "Diamond Eye"
+      },
+      {
+        "breedId": 625,
+        "alias": "Khao Plort"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Khao%20Manee"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Korat",
+    "alias": {
+      "breedId": 166,
+      "alias": "Malet"
+    },
+    "aliases": [
+      {
+        "breedId": 166,
+        "alias": "Si Sawat"
+      },
+      {
+        "breedId": 166,
+        "alias": "Malet"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Korat"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "LaPerm",
+    "alias": {
+      "breedId": 600,
+      "alias": "Perm"
+    },
+    "aliases": [
+      {
+        "breedId": 600,
+        "alias": "LaPerm Shorthair"
+      },
+      {
+        "breedId": 600,
+        "alias": "Perm"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~LaPerm"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Maine Coon",
+    "alias": {
+      "breedId": 138,
+      "alias": "American Coon Cat"
+    },
+    "aliases": [
+      {
+        "breedId": 138,
+        "alias": "Main Coon"
+      },
+      {
+        "breedId": 138,
+        "alias": "Coon Cat"
+      },
+      {
+        "breedId": 138,
+        "alias": "American Longhair"
+      },
+      {
+        "breedId": 138,
+        "alias": "American Forest Cat"
+      },
+      {
+        "breedId": 138,
+        "alias": "American Coon Cat"
+      },
+      {
+        "breedId": 138,
+        "alias": "Vermont Coon"
+      },
+      {
+        "breedId": 138,
+        "alias": "Snowshoe Cat"
+      },
+      {
+        "breedId": 138,
+        "alias": "Maine Shag"
+      },
+      {
+        "breedId": 138,
+        "alias": "Maine Cat"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Maine%20Coon"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Manx",
+    "alias": {
+      "breedId": 152,
+      "alias": "Manks"
+    },
+    "aliases": [
+      {
+        "breedId": 152,
+        "alias": "Stubbin"
+      },
+      {
+        "breedId": 152,
+        "alias": "Manks"
+      },
+      {
+        "breedId": 152,
+        "alias": "Rumpy"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Manx"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Minskin",
+    "alias": {
+      "breedId": 604,
+      "alias": "Dwarf Cat"
+    },
+    "aliases": [
+      {
+        "breedId": 604,
+        "alias": "Dwarf Cat"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Minskin"
+  },
+  {
+    "species": "Cat",
+    "type": "Mixed",
+    "name": "Mixed Cat",
+    "alias": {
+      "breedId": 421,
+      "alias": "Alley Cat"
+    },
+    "aliases": [
+      {
+        "breedId": 421,
+        "alias": "Stray"
+      },
+      {
+        "breedId": 421,
+        "alias": "Stray Cat"
+      },
+      {
+        "breedId": 421,
+        "alias": "Tabby"
+      },
+      {
+        "breedId": 421,
+        "alias": "Calico"
+      },
+      {
+        "breedId": 421,
+        "alias": "Tortoiseshell and White"
+      },
+      {
+        "breedId": 421,
+        "alias": "Tricolor cat"
+      },
+      {
+        "breedId": 421,
+        "alias": "Alley Cat"
+      },
+      {
+        "breedId": 421,
+        "alias": "ASH"
+      },
+      {
+        "breedId": 421,
+        "alias": "Brindle"
+      },
+      {
+        "breedId": 421,
+        "alias": "Caliby"
+      },
+      {
+        "breedId": 421,
+        "alias": "Crossbreed"
+      },
+      {
+        "breedId": 421,
+        "alias": "Domestic Shorthair"
+      },
+      {
+        "breedId": 421,
+        "alias": "Feral"
+      },
+      {
+        "breedId": 421,
+        "alias": "Feral Cat"
+      },
+      {
+        "breedId": 421,
+        "alias": "Heinz 57"
+      },
+      {
+        "breedId": 421,
+        "alias": "I don’t know"
+      },
+      {
+        "breedId": 421,
+        "alias": "Mixed Breed"
+      },
+      {
+        "breedId": 421,
+        "alias": "Moggie"
+      },
+      {
+        "breedId": 421,
+        "alias": "Mutt"
+      },
+      {
+        "breedId": 421,
+        "alias": "Not Sure"
+      },
+      {
+        "breedId": 421,
+        "alias": "Pinto"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~Mixed~Mixed%20Cat"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Munchkin",
+    "alias": {
+      "breedId": 486,
+      "alias": "Dwarf Cat"
+    },
+    "aliases": [
+      {
+        "breedId": 486,
+        "alias": "Dwarf Cat "
+      },
+      {
+        "breedId": 486,
+        "alias": "Dwarf Cat"
+      },
+      {
+        "breedId": 486,
+        "alias": "Bambino"
+      },
+      {
+        "breedId": 486,
+        "alias": "Munchkin Longhair"
+      },
+      {
+        "breedId": 486,
+        "alias": "Kinkalow"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Munchkin"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Nebelung",
+    "alias": {
+      "breedId": 487,
+      "alias": "Long Haired Russian Blue"
+    },
+    "aliases": [
+      {
+        "breedId": 487,
+        "alias": "Long Haired Russian Blue"
+      },
+      {
+        "breedId": 487,
+        "alias": "Nibelung"
+      },
+      {
+        "breedId": 487,
+        "alias": "Longhaired Russian Blue"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Nebelung"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Norwegian Forest",
+    "alias": {
+      "breedId": 407,
+      "alias": "Norsk skogkatt"
+    },
+    "aliases": [
+      {
+        "breedId": 407,
+        "alias": "Norsk skogkatt"
+      },
+      {
+        "breedId": 407,
+        "alias": "Norwegian Forest Cat"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Norwegian%20Forest"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Ocicat",
+    "aliases": [],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Ocicat"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Oriental",
+    "alias": {
+      "breedId": 142,
+      "alias": "Oriental Colorpoint"
+    },
+    "aliases": [
+      {
+        "breedId": 142,
+        "alias": "Peterbald"
+      },
+      {
+        "breedId": 142,
+        "alias": "Oriental Shorthair"
+      },
+      {
+        "breedId": 142,
+        "alias": "Oriental Longhair"
+      },
+      {
+        "breedId": 142,
+        "alias": "Oriental Colorpoint"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Oriental"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Persian",
+    "alias": {
+      "breedId": 137,
+      "alias": "Iranian Cat"
+    },
+    "aliases": [
+      {
+        "breedId": 137,
+        "alias": "Iranian Cat"
+      },
+      {
+        "breedId": 137,
+        "alias": "Persian Longhair"
+      },
+      {
+        "breedId": 137,
+        "alias": "Shirazi"
+      },
+      {
+        "breedId": 137,
+        "alias": "Sterling"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Persian"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Pinto",
+    "aliases": [],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Pinto"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Pixie Bob",
+    "alias": {
+      "breedId": 491,
+      "alias": "Pixie"
+    },
+    "aliases": [
+      {
+        "breedId": 491,
+        "alias": "Short Haired Pixie-Bob"
+      },
+      {
+        "breedId": 491,
+        "alias": "Pixie-Bob"
+      },
+      {
+        "breedId": 491,
+        "alias": "Pixie Bob Longhair"
+      },
+      {
+        "breedId": 491,
+        "alias": "Pixie"
+      },
+      {
+        "breedId": 491,
+        "alias": "Short-Haired Pixie-Bob"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Pixie%20Bob"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Ragamuffin",
+    "aliases": [],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Ragamuffin"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Ragdoll",
+    "alias": {
+      "breedId": 155,
+      "alias": "Rag doll"
+    },
+    "aliases": [
+      {
+        "breedId": 155,
+        "alias": "Rag doll"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Ragdoll"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Russian Blue",
+    "alias": {
+      "breedId": 151,
+      "alias": "Archangel Blue"
+    },
+    "aliases": [
+      {
+        "breedId": 151,
+        "alias": "Archangel Cat"
+      },
+      {
+        "breedId": 151,
+        "alias": "Archangel Blue"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Russian%20Blue"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Savannah",
+    "alias": {
+      "breedId": 492,
+      "alias": "Ashera"
+    },
+    "aliases": [
+      {
+        "breedId": 492,
+        "alias": "Ashera"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Savannah"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Scottish Fold",
+    "alias": {
+      "breedId": 143,
+      "alias": "Coupari"
+    },
+    "aliases": [
+      {
+        "breedId": 143,
+        "alias": "Scot Fold"
+      },
+      {
+        "breedId": 143,
+        "alias": "Lops"
+      },
+      {
+        "breedId": 143,
+        "alias": "Lop-Eared"
+      },
+      {
+        "breedId": 143,
+        "alias": "Highland Fold"
+      },
+      {
+        "breedId": 143,
+        "alias": "Coupari"
+      },
+      {
+        "breedId": 143,
+        "alias": "Scottish Longhair Fold"
+      },
+      {
+        "breedId": 143,
+        "alias": "Scottish Fold Longhair"
+      },
+      {
+        "breedId": 143,
+        "alias": "Scotish Fold"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Scottish%20Fold"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Selkirk Rex",
+    "alias": {
+      "breedId": 167,
+      "alias": "Selkirk Rex Longhair"
+    },
+    "aliases": [
+      {
+        "breedId": 167,
+        "alias": "Selkirk Rex Shorthair"
+      },
+      {
+        "breedId": 167,
+        "alias": "Selkirk Rex Longhair"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Selkirk%20Rex"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Seychellois",
+    "alias": {
+      "breedId": 415,
+      "alias": "Huiteme"
+    },
+    "aliases": [
+      {
+        "breedId": 415,
+        "alias": "Septieme"
+      },
+      {
+        "breedId": 415,
+        "alias": "Neuvieme"
+      },
+      {
+        "breedId": 415,
+        "alias": "Huiteme"
+      },
+      {
+        "breedId": 415,
+        "alias": "Seychellois Septieme"
+      },
+      {
+        "breedId": 415,
+        "alias": "Seychellois Neuvieme"
+      },
+      {
+        "breedId": 415,
+        "alias": "Seychellois Huitieme"
+      },
+      {
+        "breedId": 415,
+        "alias": "Seychellois 9th"
+      },
+      {
+        "breedId": 415,
+        "alias": "Seychellois 9"
+      },
+      {
+        "breedId": 415,
+        "alias": "Seychellois 8th"
+      },
+      {
+        "breedId": 415,
+        "alias": "Seychellois 8"
+      },
+      {
+        "breedId": 415,
+        "alias": "Seychellois 7th"
+      },
+      {
+        "breedId": 415,
+        "alias": "Seychellois 7"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Seychellois"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Siamese",
+    "alias": {
+      "breedId": 139,
+      "alias": "Blue Point"
+    },
+    "aliases": [
+      {
+        "breedId": 139,
+        "alias": "Lynx Point"
+      },
+      {
+        "breedId": 139,
+        "alias": "Red & Cream"
+      },
+      {
+        "breedId": 139,
+        "alias": "Red and Cream"
+      },
+      {
+        "breedId": 139,
+        "alias": "Seal Point"
+      },
+      {
+        "breedId": 139,
+        "alias": "Simese"
+      },
+      {
+        "breedId": 139,
+        "alias": "Tabby Point"
+      },
+      {
+        "breedId": 139,
+        "alias": "Thai"
+      },
+      {
+        "breedId": 139,
+        "alias": "Tortoise Shell Point"
+      },
+      {
+        "breedId": 139,
+        "alias": "Tortoise-Shell Point"
+      },
+      {
+        "breedId": 139,
+        "alias": "Traditional Siamese"
+      },
+      {
+        "breedId": 139,
+        "alias": "Wichien Maat "
+      },
+      {
+        "breedId": 139,
+        "alias": "Applehead"
+      },
+      {
+        "breedId": 139,
+        "alias": "Blue Point"
+      },
+      {
+        "breedId": 139,
+        "alias": "Chocolate Point"
+      },
+      {
+        "breedId": 139,
+        "alias": "Classic Siamese"
+      },
+      {
+        "breedId": 139,
+        "alias": "Lilac Point"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Siamese"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Siberian",
+    "alias": {
+      "breedId": 495,
+      "alias": "Masquerade"
+    },
+    "aliases": [
+      {
+        "breedId": 495,
+        "alias": "Siberian Forest Cat"
+      },
+      {
+        "breedId": 495,
+        "alias": "Masquerade"
+      },
+      {
+        "breedId": 495,
+        "alias": "Moscow Semi-Longhair Neva"
+      },
+      {
+        "breedId": 495,
+        "alias": "Neva Masquerade"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Siberian"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Singapura",
+    "alias": {
+      "breedId": 164,
+      "alias": "Drain Cat"
+    },
+    "aliases": [
+      {
+        "breedId": 164,
+        "alias": "Love Cat"
+      },
+      {
+        "breedId": 164,
+        "alias": "Drain Cat"
+      },
+      {
+        "breedId": 164,
+        "alias": "Kucinta"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Singapura"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Snowshoe",
+    "alias": {
+      "breedId": 418,
+      "alias": "Black Point"
+    },
+    "aliases": [
+      {
+        "breedId": 418,
+        "alias": "Cinamon Point"
+      },
+      {
+        "breedId": 418,
+        "alias": "Chocolate Point"
+      },
+      {
+        "breedId": 418,
+        "alias": "Blue Point"
+      },
+      {
+        "breedId": 418,
+        "alias": "Black Point"
+      },
+      {
+        "breedId": 418,
+        "alias": "Tortoiseshell Tabby"
+      },
+      {
+        "breedId": 418,
+        "alias": "Seal Point"
+      },
+      {
+        "breedId": 418,
+        "alias": "Red Point"
+      },
+      {
+        "breedId": 418,
+        "alias": "Fawn Point"
+      },
+      {
+        "breedId": 418,
+        "alias": "Cream Point"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Snowshoe"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Somali",
+    "alias": {
+      "breedId": 153,
+      "alias": "Fox Cat"
+    },
+    "aliases": [
+      {
+        "breedId": 153,
+        "alias": "Long Haired Somali"
+      },
+      {
+        "breedId": 153,
+        "alias": "Long-Haired Abyssinian"
+      },
+      {
+        "breedId": 153,
+        "alias": "Long-Haired Somali"
+      },
+      {
+        "breedId": 153,
+        "alias": "Fox Cat"
+      },
+      {
+        "breedId": 153,
+        "alias": "Long Haired Abyssinian"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Somali"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Sphynx",
+    "alias": {
+      "breedId": 419,
+      "alias": "Canadian Hairless"
+    },
+    "aliases": [
+      {
+        "breedId": 419,
+        "alias": "Don Hairless"
+      },
+      {
+        "breedId": 419,
+        "alias": "Canadian Hairless Sphynx"
+      },
+      {
+        "breedId": 419,
+        "alias": "Donskoy"
+      },
+      {
+        "breedId": 419,
+        "alias": "Canadian Hairless"
+      },
+      {
+        "breedId": 419,
+        "alias": "Don Sphynx"
+      },
+      {
+        "breedId": 419,
+        "alias": "Russian Hairless"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Sphynx"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Tiffanie",
+    "alias": {
+      "breedId": 420,
+      "alias": "Asian Semi-Longhair"
+    },
+    "aliases": [
+      {
+        "breedId": 420,
+        "alias": "Chantilly"
+      },
+      {
+        "breedId": 420,
+        "alias": "Tiffany"
+      },
+      {
+        "breedId": 420,
+        "alias": "Asian"
+      },
+      {
+        "breedId": 420,
+        "alias": "Asian Semi-Longhair"
+      },
+      {
+        "breedId": 420,
+        "alias": "Australian Tiffanie"
+      },
+      {
+        "breedId": 420,
+        "alias": "Australian Tiffany"
+      },
+      {
+        "breedId": 420,
+        "alias": "Chanille"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Tiffanie"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Tonkinese",
+    "alias": {
+      "breedId": 149,
+      "alias": "Tonk"
+    },
+    "aliases": [
+      {
+        "breedId": 149,
+        "alias": "Tonk"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Tonkinese"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Turkish Angora",
+    "alias": {
+      "breedId": 162,
+      "alias": "Angora"
+    },
+    "aliases": [
+      {
+        "breedId": 162,
+        "alias": "Angora"
+      },
+      {
+        "breedId": 162,
+        "alias": "Ankara"
+      }
+    ],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Turkish%20Angora"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Turkish Van",
+    "aliases": [],
+    "maxAge": 18,
+    "code": "Cat~PureBreed~Turkish%20Van"
+  }
+]
