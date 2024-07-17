@@ -1,0 +1,2865 @@
+[
+  {
+    "type": "Breeds",
+    "id": "129",
+    "name": "Abyssinian",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "262",
+    "name": "American Bobtail",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "233",
+    "name": "American Curl",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "177",
+    "name": "American Long Hair",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "130",
+    "name": "American Shorthair",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "131",
+    "name": "American Wirehair",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "180",
+    "name": "Angora",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "132",
+    "name": "Balinese",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "247",
+    "name": "Bengal",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "133",
+    "name": "Birman",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "134",
+    "name": "Bombay",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "135",
+    "name": "British Shorthair",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "257",
+    "name": "Bullseye",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "136",
+    "name": "Burmese",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "231",
+    "name": "California Spangled",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "137",
+    "name": "Chartreux",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "206",
+    "name": "Chinchilla Persian",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "138",
+    "name": "Colorpoint Shorthair",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "300",
+    "name": "Cornish Rex",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "301",
+    "name": "Devon Rex",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "140",
+    "name": "Domestic Longhair",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "236",
+    "name": "Domestic Medium Hair",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "139",
+    "name": "Domestic Shorthair",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "141",
+    "name": "Egyptian Mau",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "284",
+    "name": "Exotic Longhair",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "142",
+    "name": "Exotic Shorthair",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "143",
+    "name": "Havana Brown",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "144",
+    "name": "Himalayan",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "145",
+    "name": "Japanese Bobtail",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "287",
+    "name": "Javanese",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "146",
+    "name": "Korat",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "147",
+    "name": "Maine Coon",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "148",
+    "name": "Manx",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "149",
+    "name": "Manx Longhair",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "308",
+    "name": "Munchkin",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "252",
+    "name": "Norwegian Forest Cat",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "249",
+    "name": "Ocicat",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "150",
+    "name": "Oriental Shorthair",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "151",
+    "name": "Persian",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "227",
+    "name": "Persian-Himalayan",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "152",
+    "name": "Ragdoll",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "153",
+    "name": "Rex",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "154",
+    "name": "Russian Blue",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "155",
+    "name": "Scottish Fold",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "224",
+    "name": "Shorthair Chinchilla",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "156",
+    "name": "Siamese",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "251",
+    "name": "Singapura",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "254",
+    "name": "Snowshoe",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "157",
+    "name": "Somali",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "158",
+    "name": "Sphynx",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "159",
+    "name": "Tonkinese",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "160",
+    "name": "Turkish Angora",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "246",
+    "name": "Turkish Van",
+    "species": "Cat",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "204",
+    "name": "Unknown / Mixed",
+    "species": "Cat",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "2",
+    "name": "Affenpinscher",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "3",
+    "name": "Afghan Hound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "4",
+    "name": "Airedale",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "193",
+    "name": "Akbash",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "5",
+    "name": "Akita",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "173",
+    "name": "Alaskan Husky",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "6",
+    "name": "Alaskan Malamute",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "279",
+    "name": "American Alaskan Spitz",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "461",
+    "name": "American Bandogge Mastiff",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "462",
+    "name": "American Black And Tan Coonhound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "463",
+    "name": "American Blue Gascon Hound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "290",
+    "name": "American Bulldog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "464",
+    "name": "American Cocker Spaniel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "164",
+    "name": "American Eskimo",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "235",
+    "name": "American Eskimo-Miniature",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "7",
+    "name": "American Foxhound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "238",
+    "name": "American Indian",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "465",
+    "name": "American Mastiff",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "466",
+    "name": "American Mastiff (Panja)",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "181",
+    "name": "American Pit Bull",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "178",
+    "name": "American Pitbull Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "199",
+    "name": "American Royal Retriever",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "8",
+    "name": "American Staffordshire Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "293",
+    "name": "American Staghound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "272",
+    "name": "American Tendra Shepherd",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "9",
+    "name": "American Water Spaniel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "225",
+    "name": "Anatolian Shepherd",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "487",
+    "name": "Appenzeller Sennenhunde",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "277",
+    "name": "Argentine Dogo",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "542",
+    "name": "Aussalier",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "10",
+    "name": "Australian Cattle Dog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "270",
+    "name": "Australian Dingo",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "176",
+    "name": "Australian Kelpie",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "543",
+    "name": "Australian Labradoodle",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "162",
+    "name": "Australian Shepherd",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "269",
+    "name": "Australian Shepherd-Miniature",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "11",
+    "name": "Australian Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "214",
+    "name": "Azawakh",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "488",
+    "name": "Barbet",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "12",
+    "name": "Basenji",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "13",
+    "name": "Basset Hound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "544",
+    "name": "Bassetoodle",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "14",
+    "name": "Beagle",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "15",
+    "name": "Bearded Collie",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "299",
+    "name": "Beauceron",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "16",
+    "name": "Bedlington Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "313",
+    "name": "Belgian Laekenois",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "17",
+    "name": "Belgian Malinois",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "467",
+    "name": "Belgian Mastiff ",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "18",
+    "name": "Belgian Sheepdog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "165",
+    "name": "Belgian Shepherd",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "19",
+    "name": "Belgian Tervuren",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "489",
+    "name": "Bergamasco",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "468",
+    "name": "Berger Des Pyrénées",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "490",
+    "name": "Berger Picard",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "545",
+    "name": "Bernedoodle",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "20",
+    "name": "Bernese Mountain Dog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "21",
+    "name": "Bichon Frise",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "288",
+    "name": "Black Russian Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "23",
+    "name": "Bloodhound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "260",
+    "name": "Blue Heeler",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "491",
+    "name": "Boerboel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "492",
+    "name": "Bolognese",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "166",
+    "name": "Border Collie",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "24",
+    "name": "Border Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "25",
+    "name": "Borzoi",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "26",
+    "name": "Boston Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "27",
+    "name": "Bouvier Des Flandres",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "28",
+    "name": "Boxer",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "175",
+    "name": "Boykin Spaniel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "493",
+    "name": "Bracco Italiano",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "228",
+    "name": "Brazilian Fila",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "29",
+    "name": "Briard",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "30",
+    "name": "Brittany Spaniel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "31",
+    "name": "Brussels Griffon",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "469",
+    "name": "Bull Boxer",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "32",
+    "name": "Bull Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "244",
+    "name": "Bull Terrier-Miniature",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "33",
+    "name": "Bulldog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "34",
+    "name": "Bullmastiff",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "35",
+    "name": "Cairn Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "271",
+    "name": "Canaan",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "256",
+    "name": "Canary Dog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "266",
+    "name": "Canecorso",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "209",
+    "name": "Catahoula Leopard Dog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "306",
+    "name": "Caucasian Ovtcharka",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "174",
+    "name": "Cavalier King Charles Spaniel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "546",
+    "name": "Cavapoo",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "494",
+    "name": "Central Asian Shepherd Dog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "274",
+    "name": "Cesky Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "280",
+    "name": "Chanille",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "36",
+    "name": "Chesapeake Bay Retriever",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "37",
+    "name": "Chihuahua",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "240",
+    "name": "Chihuahua-Long-Haired",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "232",
+    "name": "Chinese Crested",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "187",
+    "name": "Chinese Crested Powder Puff",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "210",
+    "name": "Chinese Pug",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "264",
+    "name": "Chinook",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "529",
+    "name": "Chipom",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "547",
+    "name": "Chipoo",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "38",
+    "name": "Chow Chow",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "495",
+    "name": "Cirneco Dell'Etna",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "39",
+    "name": "Clumber Spaniel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "530",
+    "name": "Cockapoo",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "40",
+    "name": "Cocker Spaniel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "248",
+    "name": "Cocker Spaniel-Miniature",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "41",
+    "name": "Collie",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "295",
+    "name": "Collie - Smooth Coated",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "496",
+    "name": "Coonhound-American English",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "22",
+    "name": "Coonhound-Black & Tan",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "200",
+    "name": "Coonhound-Blue Tick",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "237",
+    "name": "Coonhound-Redbone",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "497",
+    "name": "Coonhound-Treeing Walker",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "223",
+    "name": "Coton De Tulear",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "42",
+    "name": "Curly-Coated Retriever",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "498",
+    "name": "Czechoslovakian Vlcak",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "43",
+    "name": "Dachshund",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "186",
+    "name": "Dachshund-Long Haired",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "196",
+    "name": "Dachshund-Miniature",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "241",
+    "name": "Dachshund-Miniature Long Haired",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "297",
+    "name": "Dachshund-Miniature Smooth Haired",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "258",
+    "name": "Dachshund-Miniature Wire Hair",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "294",
+    "name": "Dachshund-Wire Haired",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "44",
+    "name": "Dalmatian",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "45",
+    "name": "Dandie Dinmont Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "528",
+    "name": "Designer / Hybrid",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "46",
+    "name": "Doberman Pinscher",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "222",
+    "name": "Dogue De Bordeaux",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "548",
+    "name": "Doxiepoo",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "184",
+    "name": "English Bull",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "470",
+    "name": "English Bulldog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "47",
+    "name": "English Cocker Spaniel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "48",
+    "name": "English Foxhound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "185",
+    "name": "English Mastiff",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "208",
+    "name": "English Pointer",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "49",
+    "name": "English Setter",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "188",
+    "name": "English Shepherd",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "50",
+    "name": "English Springer Spaniel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "51",
+    "name": "English Toy Spaniel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "289",
+    "name": "Entlebucher Sennenhund",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "499",
+    "name": "Estrela Mountain Dog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "500",
+    "name": "Eurasier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "52",
+    "name": "Field Spaniel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "201",
+    "name": "Finnish Hound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "501",
+    "name": "Finnish Lapphund",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "198",
+    "name": "Finnish Spitz",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "53",
+    "name": "Flat-Coated Retriever",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "226",
+    "name": "Fourche Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "54",
+    "name": "Fox Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "55",
+    "name": "French Bulldog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "471",
+    "name": "French Mastiff",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "310",
+    "name": "French Spainiel (Epagneul Francais)",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "549",
+    "name": "Frenchton",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "273",
+    "name": "German Pinscher",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "56",
+    "name": "German Shepherd",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "57",
+    "name": "German Shorthaired Pointer",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "502",
+    "name": "German Spitz",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "58",
+    "name": "German Wirehaired Pointer",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "291",
+    "name": "Glen Of Imaal Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "60",
+    "name": "Golden Retriever",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "531",
+    "name": "Goldendoodle",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "61",
+    "name": "Gordon Setter",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "275",
+    "name": "Grand Basset Griffon Ven Deen",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "62",
+    "name": "Great Dane",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "63",
+    "name": "Great Pyrenees",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "215",
+    "name": "Greater Swiss Mountain",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "64",
+    "name": "Greyhound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "65",
+    "name": "Harrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "192",
+    "name": "Havanese",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "304",
+    "name": "Hovawart",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "292",
+    "name": "Hungarian Sheepdog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "66",
+    "name": "Ibizan Hound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "503",
+    "name": "Icelandic Sheepdog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "168",
+    "name": "Inca Orchid",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "67",
+    "name": "Irish Setter",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "68",
+    "name": "Irish Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "69",
+    "name": "Irish Water Spaniel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "70",
+    "name": "Irish Wolfhound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "472",
+    "name": "Italian Bulldogge",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "71",
+    "name": "Italian Greyhound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "170",
+    "name": "Jack Russell Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "72",
+    "name": "Japanese Chin",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "179",
+    "name": "Japanese Spaniel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "213",
+    "name": "Jindo",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "504",
+    "name": "Kai Ken",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "305",
+    "name": "Karelian Bear Dog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "73",
+    "name": "Keeshond",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "255",
+    "name": "Kelpie",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "74",
+    "name": "Kerry Blue Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "505",
+    "name": "Kishu Ken",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "75",
+    "name": "Komondor",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "506",
+    "name": "Kooikerhondje",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "76",
+    "name": "Kuvasz",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "278",
+    "name": "Kyi-Leo",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "532",
+    "name": "Labradoodle",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "77",
+    "name": "Labrador Retriever",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "507",
+    "name": "Lagotto Romagnolo",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "78",
+    "name": "Lakeland Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "508",
+    "name": "Lancashire Heeler",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "216",
+    "name": "Leonberger",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "79",
+    "name": "Lhasa Apso",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "212",
+    "name": "Louisiana Catahula Hog Dog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "229",
+    "name": "Lowchen",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "243",
+    "name": "Luellen Setter",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "182",
+    "name": "Malamute Husky",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "219",
+    "name": "Malinois",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "80",
+    "name": "Maltese",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "533",
+    "name": "Maltipoo",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "81",
+    "name": "Manchester Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "312",
+    "name": "Maremma Sheepdog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "82",
+    "name": "Mastiff",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "263",
+    "name": "Mexican Hairless",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "234",
+    "name": "Mexican Hairless-Crested",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "550",
+    "name": "Miniature Goldendoodle",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "551",
+    "name": "Miniature Labradoodle",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "83",
+    "name": "Miniature Pinscher",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "558",
+    "name": "Mixed Breed (10 - 20 Lbs)",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "559",
+    "name": "Mixed Breed (20 - 55 Lbs)",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "560",
+    "name": "Mixed Breed (56 - 90 Lbs)",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "561",
+    "name": "Mixed Breed (90 Lbs +)",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "557",
+    "name": "Mixed Breed (Less Than 10 Lbs)",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "552",
+    "name": "Morkie",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "296",
+    "name": "Mountain Cur",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "509",
+    "name": "Mudi",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "307",
+    "name": "Munstelander",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "285",
+    "name": "Neapolitan Mastiff",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "473",
+    "name": "Nebolish Mastiff",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "203",
+    "name": "New Zealand Sheepdog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "85",
+    "name": "Newfoundland",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "86",
+    "name": "Norfolk Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "510",
+    "name": "Norrbottenspets",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "87",
+    "name": "Norwegian Elkhound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "511",
+    "name": "Norwegian Lundehund",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "195",
+    "name": "Norwegian Viking Buhund",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "88",
+    "name": "Norwich Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "268",
+    "name": "Nova Scotia Duck Tolling Retriever",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "474",
+    "name": "Old English Mastiff",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "89",
+    "name": "Old English Sheepdog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "475",
+    "name": "Olde Boston Bulldogge",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "276",
+    "name": "Olde English Bulldogge",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "476",
+    "name": "Olde Victorian Bulldogge",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "90",
+    "name": "Otter Hound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "91",
+    "name": "Papillon",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "553",
+    "name": "Peekapoo",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "92",
+    "name": "Pekingese",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "477",
+    "name": "Perro De Presa Canario",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "311",
+    "name": "Peruvian Hairless",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "512",
+    "name": "Peruvian Inca Orchid",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "205",
+    "name": "Petit Basset Griffon Ven Deen",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "169",
+    "name": "Pharaoh Hound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "242",
+    "name": "Pitbull",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "302",
+    "name": "Plott Hound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "93",
+    "name": "Pointer",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "207",
+    "name": "Polish Lowland Sheepdog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "250",
+    "name": "Polish Tatra",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "281",
+    "name": "Polski Ocharch Nizinny",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "534",
+    "name": "Pomapoo",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "94",
+    "name": "Pomeranian",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "541",
+    "name": "Pomsky",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "554",
+    "name": "Poochon",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "95",
+    "name": "Poodle-Miniature",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "96",
+    "name": "Poodle-Standard",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "265",
+    "name": "Poodle-Teacup",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "97",
+    "name": "Poodle-Toy",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "535",
+    "name": "Porkie",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "172",
+    "name": "Portugese Water Dog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "513",
+    "name": "Portuguese Podengo",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "514",
+    "name": "Portuguese Podengo Pequeno",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "515",
+    "name": "Portuguese Pointer",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "259",
+    "name": "Pudelpointer",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "98",
+    "name": "Pug",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "536",
+    "name": "Puggle",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "99",
+    "name": "Puli",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "516",
+    "name": "Pumi",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "478",
+    "name": "Pyrenean Mastiff",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "479",
+    "name": "Pyrenean Mountain Dog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "167",
+    "name": "Queensland Heeler",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "517",
+    "name": "Rafeiro Do Alentejo",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "314",
+    "name": "Rare Breed",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "189",
+    "name": "Rat Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "100",
+    "name": "Rhodesian Ridgeback",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "480",
+    "name": "Roman Rottweiler",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "101",
+    "name": "Rottweiler",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "481",
+    "name": "Russian Hound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "518",
+    "name": "Russian Toy",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "482",
+    "name": "Russian Wolfhound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "102",
+    "name": "Saint Bernard",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "103",
+    "name": "Saluki",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "104",
+    "name": "Samoyed",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "519",
+    "name": "Schapendoes",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "105",
+    "name": "Schipperke",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "59",
+    "name": "Schnauzer-Giant",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "84",
+    "name": "Schnauzer-Miniature",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "116",
+    "name": "Schnauzer-Standard",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "537",
+    "name": "Schnoodle",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "106",
+    "name": "Scottish Deerhound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "107",
+    "name": "Scottish Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "108",
+    "name": "Sealyham Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "163",
+    "name": "Shar Pei",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "555",
+    "name": "Sheepadoodle",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "217",
+    "name": "Sheltie",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "109",
+    "name": "Shetland Sheepdog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "190",
+    "name": "Shiba Inu",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "110",
+    "name": "Shih Tzu",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "556",
+    "name": "Shihpoo",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "261",
+    "name": "Shiloh Shepherd",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "111",
+    "name": "Siberian Husky",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "112",
+    "name": "Silky Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "113",
+    "name": "Skye Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "191",
+    "name": "Sloughi",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "520",
+    "name": "Slovensky Cuvac",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "521",
+    "name": "Small Munsterlander Pointer",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "211",
+    "name": "Smooth Fox Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "538",
+    "name": "Snoodle",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "114",
+    "name": "Softcoated Wheaten Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "483",
+    "name": "Spanish Bulldog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "484",
+    "name": "Spanish Mastiff",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "522",
+    "name": "Spanish Water Dog",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "283",
+    "name": "Spinone Italiano",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "220",
+    "name": "Spitz",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "523",
+    "name": "Stabyhoun",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "115",
+    "name": "Staffordshire Bull Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "117",
+    "name": "Sussex Spaniel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "524",
+    "name": "Swedish Lapphund",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "309",
+    "name": "Swedish Vallhund",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "230",
+    "name": "Telomian",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "539",
+    "name": "Terripoo",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "282",
+    "name": "Texas Blue Lacey",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "525",
+    "name": "Thai Ridgeback",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "183",
+    "name": "Tibetan Mastiff",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "253",
+    "name": "Tibetan Spaniel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "118",
+    "name": "Tibetan Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "286",
+    "name": "Tosa (Japanese Mastiff)",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "194",
+    "name": "Toy Fox Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "197",
+    "name": "Toy Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "526",
+    "name": "Treeing Tennessee Brindle",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "267",
+    "name": "Treeing Walker Coon Hound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "119",
+    "name": "Vizsla",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "202",
+    "name": "Walker Hound",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "120",
+    "name": "Weimaraner",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "121",
+    "name": "Welsh Corgi-Cardigan",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "122",
+    "name": "Welsh Corgi-Pembroke",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "123",
+    "name": "Welsh Springer Spaniel",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "124",
+    "name": "Welsh Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "125",
+    "name": "West Highland White Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "221",
+    "name": "Westmoreland Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "171",
+    "name": "Wheaten Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "126",
+    "name": "Whippet",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "298",
+    "name": "White Doberman",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "218",
+    "name": "Wire Haired Fox Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "127",
+    "name": "Wirehaired Pointing Griffon",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "527",
+    "name": "Wirehaired Vizsla",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "303",
+    "name": "Xoloitzcuintli",
+    "species": "Dog",
+    "mixed_breed": false
+  },
+  {
+    "type": "Breeds",
+    "id": "540",
+    "name": "Yorkiepoo",
+    "species": "Dog",
+    "mixed_breed": true
+  },
+  {
+    "type": "Breeds",
+    "id": "128",
+    "name": "Yorkshire Terrier",
+    "species": "Dog",
+    "mixed_breed": false
+  }
+]

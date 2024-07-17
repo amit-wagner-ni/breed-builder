@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "aliases": [
+        {
+          "alias": "Pinscher",
+          "breedId": 118
+        },
+        {
+          "alias": "Affen",
+          "breedId": 118
+        },
+        {
+          "alias": "Pincher",
+          "breedId": 118
+        },
+        {
+          "alias": "Affie",
+          "breedId": 118
+        },
+        {
+          "alias": "Monkey Dog",
+          "breedId": 118
+        },
+        {
+          "alias": "African Terrier",
+          "breedId": 118
+        }
+      ],
+      "code": "Dog~PureBreed~Affenpinscher",
+      "species": "Dog",
+      "maxAge": 18,
+      "name": "Affenpinscher",
+      "alias": {
+        "alias": "Affen",
+        "breedId": 118
+      },
+      "type": "PureBreed"
+    },
+    {
+      "aliases": [
+        {
+          "alias": "Barutzy Hound",
+          "breedId": 77
+        },
+        {
+          "alias": "Baluchi Hound",
+          "breedId": 77
+        },
+        {
+          "alias": "Balkh Hound",
+          "breedId": 77
+        },
+        {
+          "alias": "African Hound",
+          "breedId": 77
+        },
+        {
+          "alias": "Tazi",
+          "breedId": 77
+        },
+        {
+          "alias": "Tazhi Spay",
+          "breedId": 77
+        },
+        {
+          "alias": "Spay",
+          "breedId": 77
+        },
+        {
+          "alias": "Shalgar Hound",
+          "breedId": 77
+        },
+        {
+          "alias": "Sage Balochi",
+          "breedId": 77
+        },
+        {
+          "alias": "Persian Greyhound",
+          "breedId": 77
+        },
+        {
+          "alias": "Ogar Afgan",
+          "breedId": 77
+        },
+        {
+          "alias": "Kuchi Hound",
+          "breedId": 77
+        },
+        {
+          "alias": "Kabul Hound",
+          "breedId": 77
+        },
+        {
+          "alias": "Galanday Hound",
+          "breedId": 77
+        },
+        {
+          "alias": "Eastern Greyhound",
+          "breedId": 77
+        },
+        {
+          "alias": "Da Kochyano",
+          "breedId": 77
+        }
+      ],
+      "code": "Dog~PureBreed~Afghan%20Hound",
+      "species": "Dog",
+      "maxAge": 18,
+      "name": "Afghan Hound",
+      "alias": {
+        "alias": "African Hound",
+        "breedId": 77
+      },
+      "type": "PureBreed"
+    },
+    {
+      "aliases": [
+        {
+          "alias": "Do-Ken",
+          "breedId": 181
+        },
+        {
+          "alias": "Do Ken",
+          "breedId": 181
+        },
+        {
+          "alias": "Ainu-Ken",
+          "breedId": 181
+        },
+        {
+          "alias": "Ainu Ken",
+          "breedId": 181
+        },
+        {
+          "alias": "Seta",
+          "breedId": 181
+        },
+        {
+          "alias": "Hokkaido",
+          "breedId": 181
+        }
+      ],
+      "code": "Dog~PureBreed~Ainu%20Dog",
+      "species": "Dog",
+      "maxAge": 18,
+      "name": "Ainu Dog",
+      "alias": {
+        "alias": "Ainu Ken",
+        "breedId": 181
+      },
+      "type": "PureBreed"
+    },
+    {
+      "aliases": [
+        {
+          "alias": "Terrier",
+          "breedId": 182
+        },
+        {
+          "alias": "Bingley Terrier",
+          "breedId": 182
+        },
+        {
+          "alias": "Waterside Terrier",
+          "breedId": 182
+        },
+        {
+          "alias": "Terrier, Airedale",
+          "breedId": 182
+        }
+      ],
+      "code": "Dog~PureBreed~Airedale%20Terrier",
+      "species": "Dog",
+      "maxAge": 18,
+      "name": "Airedale Terrier",
+      "alias": {
+        "alias": "Bingley Terrier",
+        "breedId": 182
+      },
+      "type": "PureBreed"
+    }
+  ]
+}

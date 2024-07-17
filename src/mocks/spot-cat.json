@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "aliases": [
+        {
+          "alias": "Australian Mist",
+          "breedId": 140
+        }
+      ],
+      "code": "Cat~PureBreed~Abyssinian",
+      "species": "Cat",
+      "maxAge": 18,
+      "name": "Abyssinian",
+      "alias": {
+        "alias": "Australian Mist",
+        "breedId": 140
+      },
+      "type": "PureBreed"
+    },
+    {
+      "aliases": [
+        {
+          "alias": "American Bobtail Shorthair",
+          "breedId": 406
+        }
+      ],
+      "code": "Cat~PureBreed~American%20Bobtail",
+      "species": "Cat",
+      "maxAge": 18,
+      "name": "American Bobtail",
+      "alias": {
+        "alias": "American Bobtail Shorthair",
+        "breedId": 406
+      },
+      "type": "PureBreed"
+    },
+    {
+      "aliases": [
+        {
+          "alias": "American Curl Longhair",
+          "breedId": 159
+        },
+        {
+          "alias": "American Curl Shorthair",
+          "breedId": 159
+        }
+      ],
+      "code": "Cat~PureBreed~American%20Curl",
+      "species": "Cat",
+      "maxAge": 18,
+      "name": "American Curl",
+      "alias": {
+        "alias": "American Curl Shorthair",
+        "breedId": 159
+      },
+      "type": "PureBreed"
+    },
+    {
+      "aliases": [
+        {
+          "alias": "Kashmir",
+          "breedId": 409
+        },
+        {
+          "alias": "Pinto",
+          "breedId": 409
+        },
+        {
+          "alias": "Tabby",
+          "breedId": 409
+        }
+      ],
+      "code": "Cat~Mixed~American%20Longhair",
+      "species": "Cat",
+      "maxAge": 18,
+      "name": "American Longhair",
+      "alias": {
+        "alias": "Kashmir",
+        "breedId": 409
+      },
+      "type": "Mixed"
+    },
+    {
+      "aliases": [
+        {
+          "alias": "Caliby",
+          "breedId": 144
+        },
+        {
+          "alias": "Brindle",
+          "breedId": 144
+        },
+        {
+          "alias": "ASH",
+          "breedId": 144
+        },
+        {
+          "alias": "Alley Cat",
+          "breedId": 144
+        },
+        {
+          "alias": "Tricolor cat",
+          "breedId": 144
+        },
+        {
+          "alias": "Tortoiseshell and White",
+          "breedId": 144
+        },
+        {
+          "alias": "Tobi Mi-Ke",
+          "breedId": 144
+        },
+        {
+          "alias": "Tabby",
+          "breedId": 144
+        },
+        {
+          "alias": "Stray Cat",
+          "breedId": 144
+        },
+        {
+          "alias": "Pinto",
+          "breedId": 144
+        },
+        {
+          "alias": "Moggie",
+          "breedId": 144
+        },
+        {
+          "alias": "Feral Cat",
+          "breedId": 144
+        },
+        {
+          "alias": "Domestic Shorthair",
+          "breedId": 144
+        },
+        {
+          "alias": "Calico",
+          "breedId": 144
+        }
+      ],
+      "code": "Cat~PureBreed~American%20Shorthair",
+      "species": "Cat",
+      "maxAge": 18,
+      "name": "American Shorthair",
+      "alias": {
+        "alias": "Alley Cat",
+        "breedId": 144
+      },
+      "type": "PureBreed"
+    }
+  ]
+}

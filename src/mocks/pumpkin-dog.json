@@ -1,0 +1,3649 @@
+[
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Affenpinscher",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Affenpinscher"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Afghan Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Afghan%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Ainu Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Ainu%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Airedale Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Airedale%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Airedale Terrier Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Airedale%20Terrier%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Akbash",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Akbash"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Akita",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Akita"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Akita Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Akita%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Alaskan Husky",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Alaskan%20Husky"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Alaskan Klee Kai",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Alaskan%20Klee%20Kai"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Alaskan Malamute",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Alaskan%20Malamute"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Alaskan Malamute Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Alaskan%20Malamute%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Alpine Dachsbracke",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Alpine%20Dachsbracke"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "American Allaunt",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~American%20Allaunt"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "American Alsatian",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~American%20Alsatian"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "American Barbet",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~American%20Barbet"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "American Bulldog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~American%20Bulldog"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "American Bulldog Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~American%20Bulldog%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "American Bully",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~American%20Bully"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "American Bully Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~American%20Bully%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "American Eskimo Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~American%20Eskimo%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "American Eskimo Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~American%20Eskimo%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "American Foxhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~American%20Foxhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "American Hairless Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~American%20Hairless%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "American Indian Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~American%20Indian%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "American Staffordshire Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~American%20Staffordshire%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "American Staffordshire Terrier Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~American%20Staffordshire%20Terrier%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "American Water Spaniel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~American%20Water%20Spaniel"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Anatolian Shepherd Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Anatolian%20Shepherd%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Anglo-French Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Anglo-French%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Appenzell Mountain Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Appenzell%20Mountain%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Ariegeois",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Ariegeois"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Armant",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Armant"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Armenian Gampr (Wolfhound)",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Armenian%20Gampr%20(Wolfhound)"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Artois Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Artois%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Arubian Cunucu",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Arubian%20Cunucu"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Atlas Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Atlas%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Australian Cattle Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Australian%20Cattle%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Australian Cattle Dog Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Australian%20Cattle%20Dog%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Australian Kelpie",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Australian%20Kelpie"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Australian Shepherd",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Australian%20Shepherd"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Australian Shepherd Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Australian%20Shepherd%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Australian Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Australian%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Austrian Coarse-haired Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Austrian%20Coarse-haired%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Austrian Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Austrian%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Austrian Short Haired Pinscher",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Austrian%20Short%20Haired%20Pinscher"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Auvergne Setter",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Auvergne%20Setter"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Azawakh Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Azawakh%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Balkan Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Balkan%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Banjara Greyhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Banjara%20Greyhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Barbet",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Barbet"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Basenji",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Basenji"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Basset Artesien Normand",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Basset%20Artesien%20Normand"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Basset Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Basset%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Basset Hound Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Basset%20Hound%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Bavarian Mountain Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Bavarian%20Mountain%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Beagle",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Beagle"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Beagle Harrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Beagle%20Harrier"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Beagle Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Beagle%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Bearded Collie",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Bearded%20Collie"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Beauceron",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Beauceron"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Bedlington Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Bedlington%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Belgian Malinois",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Belgian%20Malinois"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Belgian Sheepdog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Belgian%20Sheepdog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Belgian Tervuren",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Belgian%20Tervuren"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Bergamasco",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Bergamasco"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Berger De Bresse",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Berger%20De%20Bresse"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Berger De Savoie",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Berger%20De%20Savoie"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Berger Du Languedoc",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Berger%20Du%20Languedoc"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Bernese Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Bernese%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Bernese Mountain Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Bernese%20Mountain%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Bernese Mountain Dog Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Bernese%20Mountain%20Dog%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Bichon Frise",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Bichon%20Frise"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Bichon Frise Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Bichon%20Frise%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Biewer Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Biewer%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Billy",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Billy"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Black And Tan Coonhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Black%20And%20Tan%20Coonhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Black Forest Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Black%20Forest%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Black Mouth Cur",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Black%20Mouth%20Cur"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Black Russian Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Black%20Russian%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Bloodhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Bloodhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Blue Lacy",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Blue%20Lacy"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Bluetick Coonhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Bluetick%20Coonhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Boerboel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Boerboel"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Bolognese",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Bolognese"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Border Collie",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Border%20Collie"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Border Collie Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Border%20Collie%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Border Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Border%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Borzoi",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Borzoi"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Bosnian Coarse-haired Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Bosnian%20Coarse-haired%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Boston Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Boston%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Boston Terrier Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Boston%20Terrier%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Bouvier Des Flandres",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Bouvier%20Des%20Flandres"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Boxer",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Boxer"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Boxer Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Boxer%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Boykin Spaniel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Boykin%20Spaniel"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Braque Du Bourbonnais",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Braque%20Du%20Bourbonnais"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Braque Saint-Germain",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Braque%20Saint-Germain"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Brazilian Tracker",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Brazilian%20Tracker"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Briard",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Briard"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Briquet Griffon Vendeen",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Briquet%20Griffon%20Vendeen"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Brittany",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Brittany"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Brittany Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Brittany%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Broholmer",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Broholmer"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Brussels Griffon",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Brussels%20Griffon"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Brussels Griffon Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Brussels%20Griffon%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Bugg",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Bugg"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Bull Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Bull%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Bulldog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Bulldog"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Bulldog Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Bulldog%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Bullmastiff",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Bullmastiff"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Bulloxer",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Bulloxer"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Cairn Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Cairn%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Cairn Terrier Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Cairn%20Terrier%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Canaan Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Canaan%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Canadian Husky",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Canadian%20Husky"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Cane Corso",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Cane%20Corso"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Cane Corso Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Cane%20Corso%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Cardigan Welsh Corgi",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Cardigan%20Welsh%20Corgi"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Carolina Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Carolina%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Carpathian Shepherd Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Carpathian%20Shepherd%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Catahoula Leopard",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Catahoula%20Leopard"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Catalonian Shepherd",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Catalonian%20Shepherd"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Caucasian Ovcharka",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Caucasian%20Ovcharka"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Cavachon",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Cavachon"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Cavalier King Charles Spaniel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Cavalier%20King%20Charles%20Spaniel"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Cavalier King Charles Spaniel Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Cavalier%20King%20Charles%20Spaniel%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Cavapoo",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Cavapoo"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Central Asian Shepherd",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Central%20Asian%20Shepherd"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Cesky Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Cesky%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Charplaninatz",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Charplaninatz"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Chesapeake Bay Retriever",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Chesapeake%20Bay%20Retriever"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Chihuahua",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Chihuahua"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Chihuahua Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Chihuahua%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Chinese Chongqing",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Chinese%20Chongqing"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Chinese Crested Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Chinese%20Crested%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Chinese Imperial",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Chinese%20Imperial"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Chinook",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Chinook"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Chiweenie",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Chiweenie"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Chow Chow",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Chow%20Chow"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Chow Chow Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Chow%20Chow%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Chug",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Chug"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Cirneco Dell'etna",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Cirneco%20Dell'etna"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Clumber Spaniel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Clumber%20Spaniel"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Cockapoo",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Cockapoo"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Cocker Spaniel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Cocker%20Spaniel"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Cocker Spaniel Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Cocker%20Spaniel%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Collie",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Collie"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Collie Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Collie%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Coon Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Coon%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Corgi Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Corgi%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Coton De Tulear",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Coton%20De%20Tulear"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Coton De Tulear Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Coton%20De%20Tulear%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Curly-Coated Retriever",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Curly-Coated%20Retriever"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Czech Coarse-haired Setter",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Czech%20Coarse-haired%20Setter"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Czech Shepherd",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Czech%20Shepherd"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Dachshund",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Dachshund"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Dachshund Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Dachshund%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Dalmatian",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Dalmatian"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Dalmatian Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Dalmatian%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Dandie Dinmont Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Dandie%20Dinmont%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Danish-Swedish Farmdog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Danish-Swedish%20Farmdog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Dingo",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Dingo"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Doberman Pinscher",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Doberman%20Pinscher"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Doberman Pinscher Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Doberman%20Pinscher%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Dogo Argentino",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Dogo%20Argentino"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Dogue De Bordeaux",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Dogue%20De%20Bordeaux"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Drentse Partridge Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Drentse%20Partridge%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Drever",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Drever"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Dunker",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Dunker"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Dupuy Setter",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Dupuy%20Setter"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Dutch Shepherd",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Dutch%20Shepherd"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Elkhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Elkhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "English Bulldog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~English%20Bulldog"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "English Bulldog Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~English%20Bulldog%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "English Cocker Spaniel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~English%20Cocker%20Spaniel"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "English Coonhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~English%20Coonhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "English Foxhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~English%20Foxhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "English Mastiff",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~English%20Mastiff"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "English Mastiff Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~English%20Mastiff%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "English Retriever",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~English%20Retriever"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "English Setter",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~English%20Setter"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "English Shepherd",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~English%20Shepherd"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "English Springer Spaniel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~English%20Springer%20Spaniel"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "English Springer Spaniel Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~English%20Springer%20Spaniel%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "English Toy Spaniel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~English%20Toy%20Spaniel"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "English Toy Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~English%20Toy%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Entlebuch Mountain Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Entlebuch%20Mountain%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Estonian Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Estonian%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Estrela Mountain Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Estrela%20Mountain%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Eurasier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Eurasier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Feist",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Feist"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Fell Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Fell%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Field Spaniel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Field%20Spaniel"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Fila Brasileiro",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Fila%20Brasileiro"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Finnish Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Finnish%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Finnish Lapphund",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Finnish%20Lapphund"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Finnish Spitz",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Finnish%20Spitz"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Flat-coated Retriever",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Flat-coated%20Retriever"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Formosan Mountain Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Formosan%20Mountain%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "French Bulldog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~French%20Bulldog"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "French Bulldog Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~French%20Bulldog%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "French Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~French%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "French Spaniel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~French%20Spaniel"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Frenchton",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Frenchton"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "German Hunt Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~German%20Hunt%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "German Pinscher",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~German%20Pinscher"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "German Shepherd",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~German%20Shepherd"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "German Shepherd Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~German%20Shepherd%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "German Shorthaired Pointer",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~German%20Shorthaired%20Pointer"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "German Shorthaired Pointer Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~German%20Shorthaired%20Pointer%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "German Spaniel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~German%20Spaniel"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "German Spitz",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~German%20Spitz"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "German Wirehaired Pointer",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~German%20Wirehaired%20Pointer"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Giant Mix (over 100 pounds)",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Giant%20Mix%20(over%20100%20pounds)"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Giant Schnauzer",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Giant%20Schnauzer"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Glen Of Imaal Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Glen%20Of%20Imaal%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Golden Retriever",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Golden%20Retriever"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Golden Retriever Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Golden%20Retriever%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Goldendoodle",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Goldendoodle"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Gordon Setter",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Gordon%20Setter"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Grand Basset Griffon Vendeen",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Grand%20Basset%20Griffon%20Vendeen"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Grand Gascon-Saintongeois",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Grand%20Gascon-Saintongeois"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Great Bernese",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Great%20Bernese"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Great Dane",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Great%20Dane"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Great Dane Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Great%20Dane%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Great Gascony Blue",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Great%20Gascony%20Blue"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Great Pyrenees",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Great%20Pyrenees"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Great Pyrenees Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Great%20Pyrenees%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Greater Swiss Mountain Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Greater%20Swiss%20Mountain%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Greek Greyhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Greek%20Greyhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Greenland Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Greenland%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Greyhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Greyhound"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Greyhound Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Greyhound%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Haldenstovare",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Haldenstovare"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Hamiltonstovare",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Hamiltonstovare"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Hanover Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Hanover%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Harlequin Pinscher",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Harlequin%20Pinscher"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Harrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Harrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Havanese",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Havanese"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Havanese Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Havanese%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Hellenic Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Hellenic%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Hound Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Hound%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Hovawart",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Hovawart"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Hungarian Coarse-Haired Vizsla",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Hungarian%20Coarse-Haired%20Vizsla"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Hungarian Greyhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Hungarian%20Greyhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Husky",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Husky"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Husky Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Husky%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Hygenhund",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Hygenhund"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Ibizan Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Ibizan%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Iceland Sheepdog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Iceland%20Sheepdog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Irish Red & White Setter",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Irish%20Red%20_%20White%20Setter"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Irish Setter",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Irish%20Setter"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Irish Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Irish%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Irish Water Spaniel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Irish%20Water%20Spaniel"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Irish Wolfhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Irish%20Wolfhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Istrian Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Istrian%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Italian Greyhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Italian%20Greyhound"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Italian Greyhound Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Italian%20Greyhound%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Italian Segugio",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Italian%20Segugio"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Italian Setter",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Italian%20Setter"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Italian Spinone",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Italian%20Spinone"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Italian Spitz",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Italian%20Spitz"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Jack Russell Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Jack%20Russell%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Jack Russell Terrier Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Jack%20Russell%20Terrier%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Jamthund",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Jamthund"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Japanese Akita",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Japanese%20Akita"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Japanese Chin",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Japanese%20Chin"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Japanese Kai Ken",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Japanese%20Kai%20Ken"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Japanese Kishu",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Japanese%20Kishu"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Japanese Spitz",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Japanese%20Spitz"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Japanese Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Japanese%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Jindo",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Jindo"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Jura Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Jura%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Kangal Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Kangal%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Kangaroo Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Kangaroo%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Karelian Bear Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Karelian%20Bear%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Karst Shepherd",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Karst%20Shepherd"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Keeshond",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Keeshond"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Kerry Blue Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Kerry%20Blue%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "King Shepherd",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~King%20Shepherd"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Komondor",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Komondor"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Kooikerhondje",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Kooikerhondje"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Kromfohrlander",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Kromfohrlander"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Kuvasz",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Kuvasz"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Labradoodle",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Labradoodle"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Labrador Retriever",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Labrador%20Retriever"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Labrador Retriever Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Labrador%20Retriever%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Lagotto Romagnolo",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Lagotto%20Romagnolo"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Laikas",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Laikas"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Lakeland Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Lakeland%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Lancashire Heeler",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Lancashire%20Heeler"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Lapponian Herder",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Lapponian%20Herder"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Large Mix (51-100 pounds)",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Large%20Mix%20(51-100%20pounds)"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Large Munsterlander",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Large%20Munsterlander"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Leonberger",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Leonberger"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Levesque",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Levesque"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Lhasa Apso",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Lhasa%20Apso"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Lhasa Apso Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Lhasa%20Apso%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Lowchen",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Lowchen"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Lucerne Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Lucerne%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Lurcher",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Lurcher"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Majestic Tree Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Majestic%20Tree%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Majorcan Bulldog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Majorcan%20Bulldog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Maltese",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Maltese"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Maltese Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Maltese%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Malti-Poo",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Malti-Poo"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Manchester Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Manchester%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Maremma Sheepdog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Maremma%20Sheepdog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Mastiff",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Mastiff"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Mastiff Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Mastiff%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "McNab",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~McNab"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Medium Mix (26-50 pounds)",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Medium%20Mix%20(26-50%20pounds)"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Mexican Hairless Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Mexican%20Hairless%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Miki",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Miki"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Mini Australian Labradoodle",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Mini%20Australian%20Labradoodle"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Miniature American Eskimo",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Miniature%20American%20Eskimo"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Miniature American Shepherd",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Miniature%20American%20Shepherd"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Miniature Australian Shepherd",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Miniature%20Australian%20Shepherd"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Miniature Australian Shepherd Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Miniature%20Australian%20Shepherd%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Miniature Bull Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Miniature%20Bull%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Miniature Dachshund",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Miniature%20Dachshund"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Miniature Dachshund Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Miniature%20Dachshund%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Miniature English Bulldog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Miniature%20English%20Bulldog"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Miniature Goldendoodle",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Miniature%20Goldendoodle"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Miniature Husky",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Miniature%20Husky"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Miniature Pinscher",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Miniature%20Pinscher"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Miniature Pinscher Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Miniature%20Pinscher%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Miniature Poodle",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Miniature%20Poodle"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Miniature Poodle Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Miniature%20Poodle%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Miniature Pug",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Miniature%20Pug"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Miniature Schnauzer",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Miniature%20Schnauzer"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Miniature Schnauzer Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Miniature%20Schnauzer%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Miniature Spitz",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Miniature%20Spitz"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Miniature Yorkshire Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Miniature%20Yorkshire%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Morkie",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Morkie"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Mountain Cur",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Mountain%20Cur"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Mountain Feist",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Mountain%20Feist"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Mudi",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Mudi"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Neapolitan Mastiff",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Neapolitan%20Mastiff"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "New Guinea Singing Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~New%20Guinea%20Singing%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Newfoundland",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Newfoundland"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Newfoundland Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Newfoundland%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Nivernais Griffon",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Nivernais%20Griffon"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Norbottenspets",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Norbottenspets"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Norfolk Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Norfolk%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "North American Indian Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~North%20American%20Indian%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Norwegian Buhund",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Norwegian%20Buhund"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Norwegian Elkhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Norwegian%20Elkhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Norwegian Lundehund",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Norwegian%20Lundehund"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Norwich Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Norwich%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Nova Scotia Duck Tolling Retriever",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Nova%20Scotia%20Duck%20Tolling%20Retriever"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Old Danish Pointer",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Old%20Danish%20Pointer"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Old English Sheepdog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Old%20English%20Sheepdog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Olde Boston Bulldogge",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Olde%20Boston%20Bulldogge"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Olde English Bulldogge",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Olde%20English%20Bulldogge"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Olde English Bulldogge Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Olde%20English%20Bulldogge%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Otterhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Otterhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Ovcharka",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Ovcharka"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Papillon",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Papillon"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Papillon Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Papillon%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Parson Jack Russell Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Parson%20Jack%20Russell%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Patterdale Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Patterdale%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Pekepoo",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Pekepoo"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Pekingese",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Pekingese"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Pekingese Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Pekingese%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Pembroke Welsh Corgi",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Pembroke%20Welsh%20Corgi"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Pembroke Welsh Corgi Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Pembroke%20Welsh%20Corgi%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Peruvian Inca Orchid",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Peruvian%20Inca%20Orchid"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Petit Basset Griffon Vendeen",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Petit%20Basset%20Griffon%20Vendeen"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Petite Gascon-Saintongeois",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Petite%20Gascon-Saintongeois"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Pharaoh Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Pharaoh%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Picardy Shepherd",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Picardy%20Shepherd"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Pit Bull",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Pit%20Bull"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Pit Bull Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Pit%20Bull%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Plott Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Plott%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Pointer",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Pointer"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Pointer Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Pointer%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Poitevin",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Poitevin"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Polish Lowland Sheepdog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Polish%20Lowland%20Sheepdog"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Pom-Poo",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Pom-Poo"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Pomeranian",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Pomeranian"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Pomeranian Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Pomeranian%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Pont-Audemer Spaniel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Pont-Audemer%20Spaniel"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Poodle Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Poodle%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Porcelaine",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Porcelaine"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Portuguese Podengo",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Portuguese%20Podengo"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Portuguese Setter",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Portuguese%20Setter"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Portuguese Sheepdog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Portuguese%20Sheepdog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Portuguese Watchdog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Portuguese%20Watchdog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Portuguese Water Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Portuguese%20Water%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Posavatz Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Posavatz%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Prague Ratter",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Prague%20Ratter"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Presa Canario",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Presa%20Canario"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Pudelpointer",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Pudelpointer"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Pug",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Pug"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Pug Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Pug%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Puggle",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Puggle"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Pugshire",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Pugshire"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Puli",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Puli"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Pumi",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Pumi"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Pyrenean Mastiff",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Pyrenean%20Mastiff"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Pyrenean Shepherd",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Pyrenean%20Shepherd"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Queensland Heeler",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Queensland%20Heeler"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Rafeiro Do Alentejo",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Rafeiro%20Do%20Alentejo"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Rat Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Rat%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Rat Terrier Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Rat%20Terrier%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Redbone Coonhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Redbone%20Coonhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Redtick Coonhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Redtick%20Coonhound"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Retriever Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Retriever%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Rhodesian Ridgeback",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Rhodesian%20Ridgeback"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Rhodesian Ridgeback Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Rhodesian%20Ridgeback%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Rottweiler",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Rottweiler"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Rottweiler Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Rottweiler%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Russian Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Russian%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Russian Sheepdog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Russian%20Sheepdog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Russian Toy Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Russian%20Toy%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Russian Tsvetnaya Bolonka",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Russian%20Tsvetnaya%20Bolonka"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Saint Bernard",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Saint%20Bernard"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Saint Bernard Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Saint%20Bernard%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Saluki",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Saluki"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Samoyed",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Samoyed"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Schapendoes",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Schapendoes"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Schiller Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Schiller%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Schipperke",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Schipperke"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Schnauzer Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Schnauzer%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Schnoodle",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Schnoodle"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Scottish Deerhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Scottish%20Deerhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Scottish Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Scottish%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Scottish Terrier Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Scottish%20Terrier%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Sealyham Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Sealyham%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Shar-pei",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Shar-pei"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Shar-pei Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Shar-pei%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Shepherd Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Shepherd%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Shetland Sheepdog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Shetland%20Sheepdog"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Shetland Sheepdog Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Shetland%20Sheepdog%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Shiba Inu",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Shiba%20Inu"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Shiba Inu Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Shiba%20Inu%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Shih Tzu",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Shih%20Tzu"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Shih Tzu Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Shih%20Tzu%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Shih-Poo",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Shih-Poo"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Shiloh Shepherd",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Shiloh%20Shepherd"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Siberian Husky",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Siberian%20Husky"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Siberian Husky Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Siberian%20Husky%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Sicilian Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Sicilian%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Silken Windhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Silken%20Windhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Silky Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Silky%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Silky Terrier Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Silky%20Terrier%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Skye Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Skye%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Sloughi",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Sloughi"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Slovakian Kuvasz",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Slovakian%20Kuvasz"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Smaland Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Smaland%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Small Blue Gascony Griffon",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Small%20Blue%20Gascony%20Griffon"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Small Gascons-Saintongeois",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Small%20Gascons-Saintongeois"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Small Gascony Blue",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Small%20Gascony%20Blue"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Small Mix (11-25 pounds)",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Small%20Mix%20(11-25%20pounds)"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Small Mix (up to 10 pounds)",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Small%20Mix%20(up%20to%2010%20pounds)"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Small Munsterlander",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Small%20Munsterlander"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Smooth Fox Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Smooth%20Fox%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Soft Coated Wheaten Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Soft%20Coated%20Wheaten%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Soft Coated Wheaten Terrier Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Soft%20Coated%20Wheaten%20Terrier%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Spanish Alano",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Spanish%20Alano"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Spanish Greyhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Spanish%20Greyhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Spanish Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Spanish%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Spanish Mastiff",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Spanish%20Mastiff"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Spanish Pointer",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Spanish%20Pointer"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Spanish Water Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Spanish%20Water%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Spitz",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Spitz"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Stabyhoun",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Stabyhoun"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Staffordshire Bull Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Staffordshire%20Bull%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Standard Poodle",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Standard%20Poodle"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Standard Poodle Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Standard%20Poodle%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Standard Schnauzer",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Standard%20Schnauzer"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Steinbracke",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Steinbracke"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Stephens Cur",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Stephens%20Cur"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Sussex Spaniel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Sussex%20Spaniel"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Swedish Lapphund",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Swedish%20Lapphund"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Swedish Vallhund",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Swedish%20Vallhund"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Swiss Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Swiss%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Tahltan Bear Dog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Tahltan%20Bear%20Dog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Tamaskan",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Tamaskan"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Tawny Brittany Basset",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Tawny%20Brittany%20Basset"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Tawny Brittany Griffon",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Tawny%20Brittany%20Griffon"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Teacup Poodle",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Teacup%20Poodle"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Teacup Yorkshire Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Teacup%20Yorkshire%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Telomian",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Telomian"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Terrier Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Terrier%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Thai Ridgeback",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Thai%20Ridgeback"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Tibetan Mastiff",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Tibetan%20Mastiff"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Tibetan Spaniel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Tibetan%20Spaniel"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Tibetan Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Tibetan%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Tosa Inu",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Tosa%20Inu"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Toy Australian Shepherd",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Toy%20Australian%20Shepherd"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Toy Fox Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Toy%20Fox%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Toy Maltese",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Toy%20Maltese"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Toy Manchester Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Toy%20Manchester%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Toy Poodle",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Toy%20Poodle"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Toy Poodle Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Toy%20Poodle%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Transylvanian Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Transylvanian%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Treeing Tennessee Brindle",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Treeing%20Tennessee%20Brindle"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Tyrolean Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Tyrolean%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Victorian Bulldog",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Victorian%20Bulldog"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Vizsla",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Vizsla"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Vizsla Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Vizsla%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Walker Hound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Walker%20Hound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Weimaraner",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Weimaraner"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Weimaraner Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Weimaraner%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Welsh Springer Spaniel",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Welsh%20Springer%20Spaniel"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Welsh Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Welsh%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "West Highland White Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~West%20Highland%20White%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "West Highland White Terrier Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~West%20Highland%20White%20Terrier%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Wetterhound",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Wetterhound"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Whippet",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Whippet"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Wire Fox Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Wire%20Fox%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Wirehaired Pointing Griffon",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Wirehaired%20Pointing%20Griffon"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Yorkie Poo",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Yorkie%20Poo"
+  },
+  {
+    "species": "Dog",
+    "type": "PureBreed",
+    "name": "Yorkshire Terrier",
+    "maxAge": 0,
+    "code": "Dog~PureBreed~Yorkshire%20Terrier"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Yorkshire Terrier Mix",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Yorkshire%20Terrier%20Mix"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Sheepadoodle",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Sheepadoodle"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Bernedoodle",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Bernedoodle"
+  },
+  {
+    "species": "Dog",
+    "type": "Mixed",
+    "name": "Miniature Bernedoodle",
+    "maxAge": 0,
+    "code": "Dog~Mixed~Miniature%20Bernedoodle"
+  }
+]

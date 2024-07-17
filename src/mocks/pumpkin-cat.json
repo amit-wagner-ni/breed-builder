@@ -1,0 +1,471 @@
+[
+  {
+    "species": "Cat",
+    "type": "Mixed",
+    "name": "Mixed Cat",
+    "maxAge": 0,
+    "code": "Cat~Mixed~Mixed%20Cat"
+  },
+  {
+    "species": "Cat",
+    "type": "Mixed",
+    "name": "Domestic Shorthair",
+    "maxAge": 0,
+    "code": "Cat~Mixed~Domestic%20Shorthair"
+  },
+  {
+    "species": "Cat",
+    "type": "Mixed",
+    "name": "Domestic Mediumhair",
+    "maxAge": 0,
+    "code": "Cat~Mixed~Domestic%20Mediumhair"
+  },
+  {
+    "species": "Cat",
+    "type": "Mixed",
+    "name": "Domestic Longhair",
+    "maxAge": 0,
+    "code": "Cat~Mixed~Domestic%20Longhair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Abyssinian",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Abyssinian"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "American Bobtail",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~American%20Bobtail"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "American Curl",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~American%20Curl"
+  },
+  {
+    "species": "Cat",
+    "type": "Mixed",
+    "name": "American Longhair",
+    "maxAge": 0,
+    "code": "Cat~Mixed~American%20Longhair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "American Shorthair",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~American%20Shorthair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "American Wirehair",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~American%20Wirehair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Balinese",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Balinese"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Bengal",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Bengal"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Birman",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Birman"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Bombay",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Bombay"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "British Shorthair",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~British%20Shorthair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Burmese",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Burmese"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Burmilla",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Burmilla"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "California Spangled",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~California%20Spangled"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Cameo Longhair",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Cameo%20Longhair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Chartreux",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Chartreux"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Chausie",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Chausie"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Chinchilla",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Chinchilla"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Colorpoint Longhair",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Colorpoint%20Longhair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Colorpoint Shorthair",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Colorpoint%20Shorthair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Cornish Rex",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Cornish%20Rex"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Cymric",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Cymric"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Devon Rex",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Devon%20Rex"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Egyptian Mau",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Egyptian%20Mau"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "European Burmese",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~European%20Burmese"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "European Shorthair",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~European%20Shorthair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Exotic Longhair",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Exotic%20Longhair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Exotic Shorthair",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Exotic%20Shorthair"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Havana Brown",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Havana%20Brown"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Highland Lynx Cat",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Highland%20Lynx%20Cat"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Himalayan",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Himalayan"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Japanese Bobtail",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Japanese%20Bobtail"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Khao Manee",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Khao%20Manee"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Korat",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Korat"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "LaPerm",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~LaPerm"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Maine Coon",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Maine%20Coon"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Manx",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Manx"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Minskin",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Minskin"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Munchkin",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Munchkin"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Nebelung",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Nebelung"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Norwegian Forest",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Norwegian%20Forest"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Ocicat",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Ocicat"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Oriental",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Oriental"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Persian",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Persian"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Pinto",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Pinto"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Pixie Bob",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Pixie%20Bob"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Ragamuffin",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Ragamuffin"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Ragdoll",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Ragdoll"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Russian Blue",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Russian%20Blue"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Savannah",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Savannah"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Scottish Fold",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Scottish%20Fold"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Selkirk Rex",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Selkirk%20Rex"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Seychellois",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Seychellois"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Siamese",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Siamese"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Siberian",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Siberian"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Singapura",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Singapura"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Snowshoe",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Snowshoe"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Somali",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Somali"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Sphynx",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Sphynx"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Tiffanie",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Tiffanie"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Tonkinese",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Tonkinese"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Turkish Angora",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Turkish%20Angora"
+  },
+  {
+    "species": "Cat",
+    "type": "PureBreed",
+    "name": "Turkish Van",
+    "maxAge": 0,
+    "code": "Cat~PureBreed~Turkish%20Van"
+  }
+]
